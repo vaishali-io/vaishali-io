@@ -26,7 +26,9 @@ and maintainable code. Let's build something incredible together!
 - 💬 Ask me about **Angular**, **Node.js**, or anything
 - ⚡ Fun fact: The first rule of programming — if it works, don't touch it 😅
 
-<img src="./coding.svg" width="150" />
+<div align="center">
+  <img src="./coding.svg" width="400" />
+</div>
 
 ### 🔨 Currently Working On
 
