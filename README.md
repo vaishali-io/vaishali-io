@@ -26,7 +26,7 @@ and maintainable code. Let's build something incredible together!
 - 💬 Ask me about **Angular**, **Node.js**, or anything
 - ⚡ Fun fact: The first rule of programming — if it works, don't touch it 😅
 
-<img src="./hacker-icon.png" width="150" />
+<img src="./coding.svg" width="150" />
 
 ### 🔨 Currently Working On
 
