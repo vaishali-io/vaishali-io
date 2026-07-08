@@ -26,6 +26,10 @@ and maintainable code. Let's build something incredible together!
 - 💬 Ask me about **Angular**, **Node.js**, or anything
 - ⚡ Fun fact: The first rule of programming — if it works, don't touch it 😅
 
+<div align="center">
+  <img src="./coding.svg" width="400" />
+</div>
+
 ### 🔨 Currently Working On
 
 Building out backend services and APIs with AdonisJS — check out my
